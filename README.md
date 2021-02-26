@@ -1,5 +1,5 @@
 # bbedit-clm-sqf
-Bbedit Codeless Language Module for Arma SQF Scripting Language
+BBEdit Codeless Language Module for Arma SQF Scripting Language
 
 Copy the SQF.plist BBEdit "Codeless Language Module" (CLM) file to:
 
